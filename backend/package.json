@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node ./PvP/PvPServer.js",
+    "nodemon": "nodemon ./PvP/PvPServer.js",
+    "log": "node ./PvP/PvPServer.js > ./PvP/logfile.txt\n echo 'ALL SERVER OUTPUTS WILL BE SAVED TO logfile.txt in PvP folder' "
+  },
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "double-ended-queue": "^2.1.0-0",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5",
+    "sqlite": "^5.1.1",
+    "uuid": "^9.0.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "Project_id_placeholder",
+  "private_key_id": "private_key_id_placeholder",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nPrivate_key_placeholder\n-----END PRIVATE KEY-----\n",
+  "client_email": "service_account_email_placeholder",
+  "client_id": "client_id_placeholder",
+  "auth_uri": "auth_uri_placeholder",
+  "token_uri": "toke_uri_placeholder",
+  "auth_provider_x509_cert_url": "auth_provider_x509_cert_url_placeholder",
+  "client_x509_cert_url": "client_x509_cert_url_placeholder",
+  "universe_domain": "googleapis.com"
+}
