@@ -1,7 +1,4 @@
 ## A.C.E - ASTRO COMBAT ELITE
-Copyright © 2024 
-Created by Jose Baroza-Martinez, Thomas Evans, and Richard Oluyole. All rights reserved.
-
 Step into a world of dynamic space combat where you command a ship, destroy asteroids and engage in epic space battles that’ll have you on the edge of your seat with jaw-dropping graphics and intense multiplayer action. A.C.E is more than just a game. It is a ticket the ultimate cosmic showdown.
 
 https://www.youtube.com/watch?v=cgeTfRbW0wA
@@ -92,5 +89,5 @@ In order to deploy your game, you will need to upload *all* of the contents of t
 [Google documentation](https://cloud.google.com/appengine/docs/standard/java-gen2/building-app/creating-project) </br>
 
 
-## Copyright © 2024
-A.C.E - Astro Combat Elite was developed as a Capstone project in spring 2024 and is the intellectual property of Jose Baroza-Martinez, Thomas Evans, and Richard Oluyole. All rights reserved.
+## Copyright
+A.C.E - Astro Combat Elite was developed as a Capstone project in spring 2024 and is the intellectual property of Jose Baroza-Martinez, Thomas Evans, and Richard Oluyole. All rights reserved. Copyright © 2024 
